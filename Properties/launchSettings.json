@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HAIconJsBuilder": {
+      "commandName": "Project",
+      "commandLineArgs": "-path=d:\\Icons\\"
+    }
+  }
+}
